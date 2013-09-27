@@ -136,8 +136,9 @@ a.arrow-up{border-color:#f7f7f7 #f7f7f7 #acacac #f7f7f7;top:-1px;}
 .sq-tb{margin:5px;}
 .sq-tb td{height:25px;}
 .form th{height:30px;color:#898989;font-weight:bold;padding:5px 0;}
-.int1,.int2,textarea{border: 1px solid #abadb3;height:24px;line-height: 24px;}
-.int2{min-width:100px;padding:2px;}
+.form input{margin-bottom: 0;}
+.int1,.int2,textarea{border: 1px solid #abadb3;height:24px;line-height: 24px;margin-bottom: 0;}
+.int2{width:100px;padding:2px;}
 textarea{height:auto; vertical-align: text-top;}
 .process-main{border:1px solid #ccc;border-top:0;}
 .item-process{}
@@ -169,7 +170,7 @@ table.nopadding tr td{padding:0 0 0 10px;height: 35px;}
 .scroll-x table,.scroll-x .table-scroll{width:1400px;}
 /*2013-09-22*/
 .weather{height:40px;}
-.modal-header{padding:2px 0;border-bottom:none;}
+.modal-header{padding:3px 0;border-bottom:none;}
 .close{margin-right:10px;}
 .modal-footer{padding:10px;}
 .modal{width:400px;margin-left:-200px;}

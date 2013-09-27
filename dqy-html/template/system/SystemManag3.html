@@ -164,37 +164,33 @@
           <!--右侧over-->
        </div>
         <!--新建流程弹出begin-->
-        <div class="pop" style="top:100px;left:400px;display:block;">
-            <div class="pop-inner">
-                <a href="#" class="dqy-ico dqy-off"></a>
-                <p class="pop-title">新建流程</p>
-                <div class="pop-main">
-                   <div class="pop-in noborder mart5">
-                       <table class="form" width="100%">
-                           <tr>
-                               <th>科目名称</th>
-                               <td><input type="text" class="int1 width-180"/></td>
-                           </tr>
-                           <tr>
-                               <th>
-                                   <select class="int2">
-                                       <option>一级科目</option>
-                                       <option>一级科目</option>
-                                       <option>一级科目</option>
-                                   </select>
-                               </th>
-                               <td>
-                                   <input type="text" class="int1 width-180"/>
-                               </td>
-                           </tr>
-                       </table>
-                   </div>
-                   <p class="alignright">
-                       <a href="#" class="dqy-btn dqy-ok">确定</a>
-                       <a href="#" class="dqy-btn dqy-quit">取消</a>
-                   </p>
-                </div>
-            </div>
+        <div class="modal"><!--使用参考http://v2.bootcss.com/javascript.html#modals-->
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <p class="pop-title">新建流程</p>
+          </div>
+          <div class="modal-body">
+            <table class="form" width="100%">
+               <tr>
+                   <th width="120">科目名称</th>
+                   <td><input type="text" class="int1 width-180"/></td>
+               </tr>
+               <tr>
+                   <th>
+                       <select class="int2">
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                       </select>
+                   </th>
+                   <td><input type="text" class="int1 width-180"/></td>
+               </tr>
+            </table>
+          </div>
+          <div class="modal-footer">
+              <a href="#" class="btn btn-success">确定</a>
+              <a href="#" class="btn">取消</a>
+          </div>
         </div>
         <!--新建流程弹出over-->
     </div>
