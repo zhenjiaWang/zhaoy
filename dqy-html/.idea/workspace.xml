@@ -5,8 +5,8 @@
     <ignored path="dqy-html.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380289244695" ignored="false" />
-    <file path="/SystemManag.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380294351797" ignored="false" />
-    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380296459300" ignored="false" />
+    <file path="/SystemManag.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380298964969" ignored="false" />
+    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380299599067" ignored="false" />
     <file path="/SystemManag3.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295350676" ignored="false" />
     <file path="/SystemManag4.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380292827105" ignored="false" />
     <file path="/SystemManag2.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295382844" ignored="false" />
@@ -41,10 +41,12 @@
       <file leaf-file-name="SystemManag.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/system/SystemManag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="262" column="14" selection-start="9157" selection-end="11112" vertical-scroll-proportion="-2.7333333">
+            <state line="79" column="31" selection-start="3639" selection-end="3639" vertical-scroll-proportion="-24.566668">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#p#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -112,7 +114,7 @@
       <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="175" column="44" selection-start="11657" selection-end="11657" vertical-scroll-proportion="0.7781065">
+            <state line="95" column="20" selection-start="6277" selection-end="6277" vertical-scroll-proportion="0.51775146">
               <folding />
             </state>
           </provider>
@@ -130,10 +132,10 @@
       <list>
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/template/system/SystemManag.html" />
         <option value="$PROJECT_DIR$/template/system/SystemManag2.html" />
         <option value="$PROJECT_DIR$/template/system/SystemManag3.html" />
         <option value="$PROJECT_DIR$/template/system/SystemManag4.html" />
+        <option value="$PROJECT_DIR$/template/system/SystemManag.html" />
         <option value="$PROJECT_DIR$/css/dqy-style.css" />
       </list>
     </option>
@@ -346,29 +348,10 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="23" selection-start="761" selection-end="761" vertical-scroll-proportion="-7.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2428" column="22" selection-start="54404" selection-end="54404" vertical-scroll-proportion="-2.5">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/system/SystemManag.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="262" column="14" selection-start="9157" selection-end="11112" vertical-scroll-proportion="-2.7333333">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#p#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -414,9 +397,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="23" selection-start="761" selection-end="761" vertical-scroll-proportion="-7.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/system/SystemManag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="31" selection-start="3639" selection-end="3639" vertical-scroll-proportion="-24.566668">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#p#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="44" selection-start="11657" selection-end="11657" vertical-scroll-proportion="0.7781065">
+        <state line="95" column="20" selection-start="6277" selection-end="6277" vertical-scroll-proportion="0.51775146">
           <folding />
         </state>
       </provider>
