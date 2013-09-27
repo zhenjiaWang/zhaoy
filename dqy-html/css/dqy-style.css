@@ -173,4 +173,4 @@ table.nopadding tr td{padding:0 0 0 10px;height: 35px;}
 .modal-header{padding:3px 0;border-bottom:none;}
 .close{margin-right:10px;}
 .modal-footer{padding:10px;}
-.modal{width:400px;margin-left:-200px;}
+.modal{width:400px;margin-left:-200px;top:35%;}
