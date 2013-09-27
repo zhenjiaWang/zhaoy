@@ -3,6 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>系统管理2</title>
+    <link rel="stylesheet" href="../../css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="../../css/global.css" type="text/css">
     <link rel="stylesheet" href="../../css/dqy-style.css" type="text/css">
 </head>
@@ -108,11 +109,10 @@
               <div class="right-inner mart5">
                   <!--搜索begin-->
                   <div class="r-top clearfix">
-                      <div class="search floatleft clearfix">
-                          <input type="text" class="search-bg" />
-                          <a href="#" class="search-btn"></a>
-                      </div>
-                      <a href="#" class="update floatleft marl30"></a>
+                      <form class="form-search">
+                          <input type="text" class="input-medium ">
+                          <button type="submit" class="btn"><i class="icon-refresh"></i> 同步数据</button>
+                      </form>
                   </div>
                   <!--搜索over-->
                   <table width="100%" class="dqy-table mart10">
@@ -282,6 +282,51 @@
             </div>
         </div>
         <!--新建科目弹出over-->
+        <div class="modal "><!--使用参考http://v2.bootcss.com/javascript.html#modals-->
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <p class="pop-title">新建科目</p>
+          </div>
+          <div class="modal-body">
+            <table width="100%">
+               <tr>
+                   <th><strong>姓名：</strong></th>
+                   <td>刘德华</td>
+                   <th><strong>部门：</strong></th>
+                   <td>德清源英皇分部</td>
+               </tr>
+               <tr>
+                   <th><strong>职位：</strong></th>
+                   <td>鸡蛋形象大使</td>
+                   <th></th>
+                   <td></td>
+               </tr>
+            </table>
+            <div class="pop-in mart10">
+                 <table class="sq-tb" width="100%">
+                     <tr>
+                         <td><label><input type="checkbox" /> 德清源</label></td>
+                         <td><label><input type="checkbox" /> 德清源</label></td>
+                         <td><label><input type="checkbox" /> 德清源</label></td>
+                     </tr>
+                     <tr>
+                         <td><label><input type="checkbox" /> 黄山种禽</label></td>
+                         <td><label><input type="checkbox" /> 德清源</label></td>
+                         <td><label><input type="checkbox" /> 黄山种禽</label></td>
+                     </tr>
+                     <tr>
+                         <td><label><input type="checkbox" /> 黄山种禽</label></td>
+                         <td><label><input type="checkbox" /> 英皇分部</label></td>
+                         <td><label><input type="checkbox" /> 黄山种禽</label></td>
+                     </tr>
+                 </table>
+            </div>
+          </div>
+          <div class="modal-footer">
+              <a href="#" class="btn btn-success">确定</a>
+              <a href="#" class="btn">取消</a>
+          </div>
+        </div>
     </div>
 </div>
 <script type="text/javascript" src="../../js/jquery.min.js"></script>
