@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380289244695" ignored="false" />
     <file path="/SystemManag.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380294351797" ignored="false" />
-    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295474556" ignored="false" />
+    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380296459300" ignored="false" />
     <file path="/SystemManag3.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295350676" ignored="false" />
     <file path="/SystemManag4.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380292827105" ignored="false" />
     <file path="/SystemManag2.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295382844" ignored="false" />
@@ -112,7 +112,7 @@
       <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="172" column="23" selection-start="11531" selection-end="11531" vertical-scroll-proportion="0.66715974">
+            <state line="175" column="44" selection-start="11657" selection-end="11657" vertical-scroll-proportion="0.7781065">
               <folding />
             </state>
           </provider>
@@ -416,7 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="23" selection-start="11531" selection-end="11531" vertical-scroll-proportion="0.66715974">
+        <state line="175" column="44" selection-start="11657" selection-end="11657" vertical-scroll-proportion="0.7781065">
           <folding />
         </state>
       </provider>
