@@ -91,11 +91,14 @@ a.triangle{display:inline-block;border-width:6px;border-color:#95c42d #f9f9f9  #
 .item-nav{border-bottom:1px solid #cbcbcb;padding:5px 0;margin:0;}
 .item-nav li a{display: block;color:#767676;padding-left:47px;line-height:25px;height:25px;margin:5px 0;}
 .item-nav dl{padding:1px 0;display: none;}
-.item-nav dd a{background:url("../images/cssimg/li-c.jpg") no-repeat 40px center;line-height:25px;height:25px;}
+.item-nav dd a{padding-left:50px;line-height:25px;height:25px;}
+.item-nav dd a i{display: none;}
+.item-nav dd.current a i{display: inline-block;}
 .item-nav dd a:hover{text-decoration: underline;}
 .item-nav.current,.item-nav:hover{background:#fff;}
-.item-nav.current li.current a.cur{width:121px;background:url("../images/cssimg/cur-li-bg.png");color:#fff;line-height:31px;height:31px;position:relative;left:-4px;text-shadow:-1px -1px 0px #536e1a;margin:0;}
-.item-nav.current li.current dl{display:block;}
+.item-nav li a.cur{color:#333333;}
+.item-nav li.current a.cur{width:121px;background:url("../images/cssimg/cur-li-bg.png");color:#fff;line-height:31px;height:31px;position:relative;left:-4px;text-shadow:-1px -1px 0px #536e1a;margin:0;}
+.item-nav li.current dl{display:block;}
 .right-main{width:768px;}
 .location{width:768px;height:35px;background: url("../images/cssimg/location-bg.png");line-height: 35px;}
 .location span{color: #fff;height:35px;line-height: 35px;float:left;padding:0 20px 0 15px;text-shadow: -1px -1px 1px #8c070e;}
