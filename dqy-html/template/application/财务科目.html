@@ -1,0 +1,339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>财务科目</title>
+    <link rel="stylesheet" href="../../css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="../../css/global.css" type="text/css">
+    <link rel="stylesheet" href="../../css/dqy-style.css" type="text/css">
+</head>
+<body>
+<div class="container">
+    <!--header begin-->
+    <div class="header clearfix">
+        <a href="#" class="logo floatleft" title="德青源"><img src="../../images/cssimg/dqy-logo.png"/></a>
+        <div class="clearfix">
+            <!--天气begin-->
+             <div class="weather"></div>
+            <!--天气over-->
+            <ul class="nav font18 clearfix floatleft">
+               <li class="current"><a href="#"><em></em>首 页</a></li>
+               <li><a href="#"><em></em>人事管理</a></li>
+               <li><a href="#"><em></em>申请管理</a></li>
+               <li><a href="#"><em></em>申请单据</a></li>
+               <li><a href="#"><em></em>系统管理</a></li>
+            </ul>
+        </div>
+        <!--右侧begin-->
+        <div class="top-bar">
+           <div class="search-box"><!--search-box上加减 current 控制三角的方向，和选项的折叠-->
+              <a href="#" class="triangle"></a>
+              <span class="choosed">机构选择</span>
+              <ul>
+                  <li><a href="#">北京东城分部</a></li>
+                  <li><a href="#">石家庄分部</a></li>
+                  <li><a href="#">天津城分部</a></li>
+                  <li><a href="#">美国西部分部</a></li>
+              </ul>
+           </div>
+           <p class="clearfix mart20 p-top5 font14 aligncenter">
+               <a href="#"><em class="dqy-ico dqy-ico-set"></em>帐户设置</a> |
+               <a href="#"><em class="dqy-ico dqy-ico-out"></em>退出登录</a>
+           </p>
+        </div>
+        <!--右侧over-->
+    </div>
+    <!--header over-->
+    <div class="main">
+        <div class="p-top10 clearfix">
+          <!--左侧目录树begin-->
+          <div class="side-left floatleft marl15">
+            <div class="side-left-in font14">
+                <!--一组begin-->
+                <ul class="item-nav current"><!--ul上的current是为了控制当前这一组的背景色，li上的current是为了控制二级菜单-->
+                    <li><a href="#" class="cur">事务申请</a></li>
+                    <li class="current">
+                        <a href="#" class="cur">费用报销</a>
+                        <dl class="font12">
+                            <dd class="current"><a href="#"><i class="icon-hand-right"></i> 待审</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i> 已通过</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i> 已驳回</a></dd>
+                        </dl>
+                    </li>
+                </ul>
+                <!--一组over-->
+                <!--一组begin-->
+                <ul class="item-nav">
+                    <li><a href="#" class="cur">我的申请</a></li>
+                    <li>
+                        <a href="#" class="cur">单据审批</a>
+                        <dl class="font12">
+                            <dd><a href="#"><i class="icon-hand-right"></i>待审</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已通过</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已驳回</a></dd>
+                        </dl>
+                    </li>
+                    <li><a href="#" class="cur">已审单据</a></li>
+                </ul>
+                <!--一组over-->
+                <!--一组begin-->
+                <ul class="item-nav">
+                    <li><a href="#" class="cur">报销审批</a></li>
+                    <li>
+                        <a href="#" class="cur">预支审批</a>
+                        <dl class="font12">
+                            <dd><a href="#"><i class="icon-hand-right"></i>待审</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已通过</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已驳回</a></dd>
+                        </dl>
+                    </li>
+                    <li><a href="#" class="cur">还款审批</a></li>
+                </ul>
+                <!--一组over-->
+                <!--一组begin-->
+                <ul class="item-nav current">
+                    <li><a href="#" class="cur">预算管理</a></li>
+                    <li class="current"><a href="#" class="cur">财务科目</a></li>
+                </ul>
+            </div>
+          </div>
+          <!--左侧目录树over-->
+          <!--右侧begin-->
+          <div class="right-main floatleft">
+              <!--当前位置begin-->
+              <div class="location clearfix">
+                  <span class="font14">申请管理</span>
+                  <em><img src="../../images/cssimg/now-r.jpg"/></em>
+                  <div class="floatright marr15">
+                      <em>当前位置：</em>
+                      <a href="#">申请管理</a>
+                      <em>&gt;</em>
+                      <a href="#">费用报销</a>
+                  </div>
+              </div>
+              <!--当前位置over-->
+              <div class="right-inner mart5">
+                  <!--搜索begin-->
+                  <div class="r-top clearfix">
+                      <button type="button" class="btn btn-warning floatright marr10">新增</button>
+                      <div class="input-append floatright">
+                          <input class="span2" id="appendedInputButton" type="text">
+                          <button class="btn" type="button"><i class="icon-search"></i> 搜索</button>
+                      </div>
+                  </div>
+                  <!--搜索over-->
+                  <table width="100%" class="dqy-table mart10">
+                      <thead>
+                        <tr>
+                            <th>姓名</th>
+                            <th>机构<a href="#" class="arrow-down"></a></th>
+                            <th>部门<a href="#" class="arrow-up"></a></th>
+                            <th>职位<a href="#" class="arrow-down"></a> </th>
+                            <th>状态</th>
+                            <th>权限范围</th>
+                            <th>操作</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                            <td>刘德华</td>
+                            <td>北京公司</td>
+                            <td>销售部</td>
+                            <td>销售总监</td>
+                            <td>停薪留职</td>
+                            <td>鸡下蛋，蛋孵化，卖鸡蛋，煮鸡蛋</td>
+                            <td><a href="#" class="dqy-ico choosed"></a></td>
+                        </tr>
+                        <tr>
+                            <td>刘德华</td>
+                            <td>北京公司</td>
+                            <td>销售部</td>
+                            <td>销售总监</td>
+                            <td>停薪留职</td>
+                            <td>鸡下蛋，蛋孵化，卖鸡蛋，煮鸡蛋</td>
+                            <td><a href="#" class="dqy-ico choose"></a></td>
+                        </tr>
+                        <tr>
+                            <td>刘德华</td>
+                            <td>北京公司</td>
+                            <td>销售部</td>
+                            <td>销售总监</td>
+                            <td>停薪留职</td>
+                            <td>鸡下蛋，蛋孵化，卖鸡蛋，煮鸡蛋</td>
+                            <td><a href="#" class="choose"></a></td>
+                        </tr>
+                        <tr>
+                            <td>刘德华</td>
+                            <td>北京公司</td>
+                            <td>销售部</td>
+                            <td>销售总监</td>
+                            <td>停薪留职</td>
+                            <td>鸡下蛋，蛋孵化，卖鸡蛋，煮鸡蛋</td>
+                            <td><a href="#" class="choose"></a></td>
+                        </tr>
+                        <tr>
+                            <td>刘德华</td>
+                            <td>北京公司</td>
+                            <td>销售部</td>
+                            <td>销售总监</td>
+                            <td>停薪留职</td>
+                            <td>鸡下蛋，蛋孵化，卖鸡蛋，煮鸡蛋</td>
+                            <td><a href="#" class="choose"></a></td>
+                        </tr>
+                        <tr>
+                            <td>刘德华</td>
+                            <td>北京公司</td>
+                            <td>销售部</td>
+                            <td>销售总监</td>
+                            <td>停薪留职</td>
+                            <td>鸡下蛋，蛋孵化，卖鸡蛋，煮鸡蛋</td>
+                            <td><a href="#" class="choose"></a></td>
+                        </tr>
+                        <tr>
+                            <td>刘德华</td>
+                            <td>北京公司</td>
+                            <td>销售部</td>
+                            <td>销售总监</td>
+                            <td>停薪留职</td>
+                            <td>鸡下蛋，蛋孵化，卖鸡蛋，煮鸡蛋</td>
+                            <td><a href="#" class="choose"></a></td>
+                        </tr>
+                      </tbody>
+                  </table>
+              </div>
+          </div>
+          <!--右侧over-->
+       </div>
+        <!--新建科目弹出1 begin-->
+        <div class="modal " style="display:;top:0"><!--使用参考http://v2.bootcss.com/javascript.html#modals-->
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <p class="pop-title">新建科目</p>
+          </div>
+          <div class="modal-body">
+            <table class="form" width="100%">
+               <tr>
+                   <th width="100">科目名称</th>
+                   <td><input type="text" class="int1 width-200"/></td>
+               </tr>
+               <tr>
+                   <th>科目级别</th>
+                   <td>
+                       <select class="int2">
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                       </select>
+                   </td>
+               </tr>
+            </table>
+          </div>
+          <div class="modal-footer">
+              <a href="#" class="btn btn-success">确定</a>
+              <a href="#" class="btn">取消</a>
+          </div>
+        </div>
+        <!--新建科目弹出1 over-->
+        <!--新建科目弹出2 begin-->
+        <div class="modal " style="display:;top:220px;"><!--使用参考http://v2.bootcss.com/javascript.html#modals-->
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <p class="pop-title">新建科目</p>
+          </div>
+          <div class="modal-body">
+            <table class="form" width="100%">
+               <tr>
+                   <th width="100">科目名称</th>
+                   <td><input type="text" class="int1 width-200"/></td>
+               </tr>
+               <tr>
+                   <th>科目级别</th>
+                   <td>
+                       <select class="int2">
+                           <option>二级科目</option>
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                       </select>
+                   </td>
+               </tr>
+               <tr>
+                   <th>所属科目</th>
+                   <td>
+                       <select class="int2">
+                           <option>销售费用</option>
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                       </select>
+                   </td>
+               </tr>
+            </table>
+          </div>
+          <div class="modal-footer">
+              <a href="#" class="btn btn-success">确定</a>
+              <a href="#" class="btn">取消</a>
+          </div>
+        </div>
+        <!--新建科目弹出2 over-->
+        <!--新建科目弹出3 begin-->
+        <div class="modal " style="display:;top:480px;"><!--使用参考http://v2.bootcss.com/javascript.html#modals-->
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <p class="pop-title">新建科目</p>
+          </div>
+          <div class="modal-body">
+            <table class="form" width="100%">
+               <tr>
+                   <th width="100">科目名称</th>
+                   <td><input type="text" class="int1 width-200"/></td>
+               </tr>
+               <tr>
+                   <th>科目级别</th>
+                   <td>
+                       <select class="int2">
+                           <option>三级科目</option>
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                       </select>
+                   </td>
+               </tr>
+               <tr>
+                   <th>所属科目</th>
+                   <td>
+                       <select class="int2">
+                           <option>销售费用</option>
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                       </select>
+                       <select class="int2">
+                           <option>返利/扣点</option>
+                           <option>一级科目</option>
+                           <option>一级科目</option>
+                       </select>
+                   </td>
+               </tr>
+            </table>
+          </div>
+          <div class="modal-footer">
+              <a href="#" class="btn btn-success">确定</a>
+              <a href="#" class="btn">取消</a>
+          </div>
+        </div>
+        <!--新建科目弹出3 over-->
+    </div>
+</div>
+<script type="text/javascript" src="../../js/jquery.min.js"></script>
+<script type="text/javascript">
+    var $btn = $(".cur");
+    var $dlHeight = $btn.next().height();
+    $(function(){
+        $btn.click(function(){
+           $(this).next().slideToggle();
+           $(this).parent().toggleClass("current");
+           $(this).parent().parent().toggleClass("current");
+        });
+        // 表格隔行换色
+        $(".dqy-table tr:even").addClass("tr-bg");
+    })
+</script>
+</body>
+</html>
