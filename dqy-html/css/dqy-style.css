@@ -100,9 +100,9 @@ a.triangle{display:inline-block;border-width:6px;border-color:#95c42d #f9f9f9  #
 .item-nav li.current a.cur{width:121px;background:url("../images/cssimg/cur-li-bg.png");color:#fff;line-height:31px;height:31px;position:relative;left:-4px;text-shadow:-1px -1px 0px #536e1a;margin:0;}
 .item-nav li.current dl{display:block;}
 .right-main{width:768px;}
-.location{width:768px;height:35px;background: url("../images/cssimg/location-bg.png");line-height: 35px;}
+.location{width:768px;height:35px;background: url("../images/cssimg/location-bg.png");line-height: 33px;}
 .location span{color: #fff;height:35px;line-height: 35px;float:left;padding:0 20px 0 15px;text-shadow: -1px -1px 1px #8c070e;}
-.location .floatright,.location .floatright a{color:#62070c;line-height: 35px;}
+.location .floatright,.location .floatright a{color:#FFFFFF;line-height: 35px;}
 .location .floatright a:hover{color:#fff;}
 .right-inner{border: 1px solid #cbcbcb;background:#fff;min-height:600px;padding:10px;}
 .search{width:198px;height:28px;background:url("../images/cssimg/search-bg.gif");}
