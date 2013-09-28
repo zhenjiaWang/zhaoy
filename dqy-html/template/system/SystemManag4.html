@@ -6,6 +6,20 @@
     <link rel="stylesheet" href="../../css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="../../css/global.css" type="text/css">
     <link rel="stylesheet" href="../../css/dqy-style.css" type="text/css">
+	 <style>
+        .tableBgColor{
+            background-color: #FAFAFA;
+        }
+        .oddBgColor{
+            background-color:#FAF3F3;
+        }
+        .thColor{
+            color: #898989;
+        }
+        .thColor th{
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
 <div class="container">
@@ -117,90 +131,76 @@
                       <button type="button" class="btn btn-warning floatright marr10">新增</button>
                   </div>
                   <!--搜索over-->
-                  <table width="100%" class="dqy-table mart10">
-                      <thead>
-                        <tr>
-                            <th width="90"><input type="checkbox">  同盟管理</th>
-                            <th>机构名称<a href="#" class="arrow-down"></a></th>
-                            <th>机构代码<a href="#" class="arrow-up"></a></th>
-                            <th>上级机构<a href="#" class="arrow-down"></a> </th>
-                            <th>操作</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>德清源</td>
-                            <td>0001</td>
-                            <td>德清源</td>
-                            <td>
-                                <a href="#" class="dqy-ico dqy-eidt" title="编辑"></a>
-                                <a href="#" class="dqy-ico dqy-del" title="删除"></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>德清源</td>
-                            <td>0001</td>
-                            <td>德清源</td>
-                            <td>
-                                <a href="#" class="dqy-ico dqy-eidt" title="编辑"></a>
-                                <a href="#" class="dqy-ico dqy-del" title="删除"></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>德清源</td>
-                            <td>0001</td>
-                            <td>德清源</td>
-                            <td>
-                                <a href="#" class="dqy-ico dqy-eidt" title="编辑"></a>
-                                <a href="#" class="dqy-ico dqy-del" title="删除"></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>德清源</td>
-                            <td>0001</td>
-                            <td>德清源</td>
-                            <td>
-                                <a href="#" class="dqy-ico dqy-eidt" title="编辑"></a>
-                                <a href="#" class="dqy-ico dqy-del" title="删除"></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>德清源</td>
-                            <td>0001</td>
-                            <td>德清源</td>
-                            <td>
-                                <a href="#" class="dqy-ico dqy-eidt" title="编辑"></a>
-                                <a href="#" class="dqy-ico dqy-del" title="删除"></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>德清源</td>
-                            <td>0001</td>
-                            <td>德清源</td>
-                            <td>
-                                <a href="#" class="dqy-ico dqy-eidt" title="编辑"></a>
-                                <a href="#" class="dqy-ico dqy-del" title="删除"></a>
-                            </td>
-                        </tr>
-                       </tbody>
-                  </table>
+				  <div style="min-height: 419px;height: 419px;" class="mart10">
+					<table class="table table-bordered table-hover tableBgColor" style="min-height: 419px;">
+						<thead>
+						<tr class="thColor">
+							<th width="100">机构编号</th>
+							<th width="120">机构名称</th>
+							<th>所属集团</th>
+							<th width="80">启用</th>
+							<th width="100">操作</th>
+						</tr>
+						</thead>
+						<tbody>
+							<tr class="oddBgColor">
+									<td>10000</td>
+									<td>北京DQY</td>
+									<td>DQY股份</td>
+									<td style="text-align: center;">是</td>
+									<td style="text-align: center;">
+										<a title="编辑" class="dqy-ico dqy-eidt" uid="${org.id?c}" href="#"></a>
+										<a title="删除" class="dqy-ico dqy-del" uid="${org.id?c}" href="#"></a>
+									</td>
+								</tr>
+								<tr >
+									<td>10000</td>
+									<td>北京DQY</td>
+									<td>DQY股份</td>
+									<td style="text-align: center;">是</td>
+									<td style="text-align: center;">
+										<a title="编辑" class="dqy-ico dqy-eidt" uid="${org.id?c}" href="#"></a>
+										<a title="删除" class="dqy-ico dqy-del" uid="${org.id?c}" href="#"></a>
+									</td>
+								</tr>
+								<tr class="oddBgColor">
+									<td>10000</td>
+									<td>北京DQY</td>
+									<td>DQY股份</td>
+									<td style="text-align: center;">是</td>
+									<td style="text-align: center;">
+										<a title="编辑" class="dqy-ico dqy-eidt" uid="${org.id?c}" href="#"></a>
+										<a title="删除" class="dqy-ico dqy-del" uid="${org.id?c}" href="#"></a>
+									</td>
+								</tr>
+								<tr >
+									<td>10000</td>
+									<td>北京DQY</td>
+									<td>DQY股份</td>
+									<td style="text-align: center;">是</td>
+									<td style="text-align: center;">
+										<a title="编辑" class="dqy-ico dqy-eidt" uid="${org.id?c}" href="#"></a>
+										<a title="删除" class="dqy-ico dqy-del" uid="${org.id?c}" href="#"></a>
+									</td>
+								</tr>
+						</tbody>
+					</table>
+				</div>
                   <!--分页beign-->
-                  <p class="aligncenter pagenation">
-                      <a href="#" class="prve">&lt;</a>
-                      <a href="#">1</a>
-                      <a href="#">2</a>
-                      <a href="#">3</a>
-                      <span>...</span>
-                      <a href="#">4</a>
-                      <a href="#">5</a>
-                      <a href="#" class="next">&gt;</a>
-                  </p>
+                  
+<div class="pagination pagination-centered" id="plus-page">
+        <ul>
+		<li><a href="#">&laquo;</a></li>
+  <li><a href="#">1</a></li>
+  <li><a href="#">2</a></li>
+  <li><a href="#">3</a></li>
+  <li><a href="#">4</a></li>
+  <li><a href="#">5</a></li>
+  <li><a href="#">&raquo;</a></li>
+</ul>
+</div>
+
+
                   <!--分页over-->
               </div>
           </div>
