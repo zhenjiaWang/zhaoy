@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>科目关联</title>
+    <link rel="stylesheet" href="../../css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="../../css/global.css" type="text/css">
+    <link rel="stylesheet" href="../../css/dqy-style.css" type="text/css">
+</head>
+<body>
+<div class="container">
+    <!--header begin-->
+    <div class="header clearfix">
+        <a href="#" class="logo floatleft" title="德青源"><img src="../../images/cssimg/dqy-logo.png"/></a>
+        <div class="clearfix">
+            <!--天气begin-->
+             <div class="weather"></div>
+            <!--天气over-->
+            <ul class="nav font18 clearfix floatleft">
+               <li class="current"><a href="#"><em></em>首 页</a></li>
+               <li><a href="#"><em></em>人事管理</a></li>
+               <li><a href="#"><em></em>申请管理</a></li>
+               <li><a href="#"><em></em>申请单据</a></li>
+               <li><a href="#"><em></em>系统管理</a></li>
+            </ul>
+        </div>
+        <!--右侧begin-->
+        <div class="top-bar">
+           <div class="search-box"><!--search-box上加减 current 控制三角的方向，和选项的折叠-->
+              <a href="#" class="triangle"></a>
+              <span class="choosed">机构选择</span>
+              <ul>
+                  <li><a href="#">北京东城分部</a></li>
+                  <li><a href="#">石家庄分部</a></li>
+                  <li><a href="#">天津城分部</a></li>
+                  <li><a href="#">美国西部分部</a></li>
+              </ul>
+           </div>
+           <p class="clearfix mart20 p-top5 font14 aligncenter">
+               <a href="#"><em class="dqy-ico dqy-ico-set"></em>帐户设置</a> |
+               <a href="#"><em class="dqy-ico dqy-ico-out"></em>退出登录</a>
+           </p>
+        </div>
+        <!--右侧over-->
+    </div>
+    <!--header over-->
+    <div class="main">
+        <div class="p-top10 clearfix">
+          <!--左侧目录树begin-->
+          <div class="side-left floatleft marl15">
+            <div class="side-left-in font14">
+                <!--一组begin-->
+                <ul class="item-nav current"><!--ul上的current是为了控制当前这一组的背景色，li上的current是为了控制二级菜单-->
+                    <li><a href="#" class="cur">事务申请</a></li>
+                    <li class="current">
+                        <a href="#" class="cur">费用报销</a>
+                        <dl class="font12">
+                            <dd class="current"><a href="#"><i class="icon-hand-right"></i> 待审</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i> 已通过</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i> 已驳回</a></dd>
+                        </dl>
+                    </li>
+                </ul>
+                <!--一组over-->
+                <!--一组begin-->
+                <ul class="item-nav">
+                    <li><a href="#" class="cur">我的申请</a></li>
+                    <li>
+                        <a href="#" class="cur">单据审批</a>
+                        <dl class="font12">
+                            <dd><a href="#"><i class="icon-hand-right"></i>待审</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已通过</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已驳回</a></dd>
+                        </dl>
+                    </li>
+                    <li><a href="#" class="cur">已审单据</a></li>
+                </ul>
+                <!--一组over-->
+                <!--一组begin-->
+                <ul class="item-nav">
+                    <li><a href="#" class="cur">报销审批</a></li>
+                    <li>
+                        <a href="#" class="cur">预支审批</a>
+                        <dl class="font12">
+                            <dd><a href="#"><i class="icon-hand-right"></i>待审</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已通过</a></dd>
+                            <dd><a href="#"><i class="icon-hand-right"></i>已驳回</a></dd>
+                        </dl>
+                    </li>
+                    <li><a href="#" class="cur">还款审批</a></li>
+                </ul>
+                <!--一组over-->
+                <!--一组begin-->
+                <ul class="item-nav current">
+                    <li><a href="#" class="cur">预算管理</a></li>
+                    <li><a href="#" class="cur">财务科目</a></li>
+                    <li class="current"><a href="#" class="cur">科目关联</a></li>
+                </ul>
+            </div>
+          </div>
+          <!--左侧目录树over-->
+          <!--右侧begin-->
+          <div class="right-main floatleft">
+              <!--当前位置begin-->
+              <div class="location clearfix">
+                  <span class="font14">申请管理</span>
+                  <em><img src="../../images/cssimg/now-r.jpg"/></em>
+                  <div class="floatright marr15">
+                      <em>当前位置：</em>
+                      <a href="#">申请管理</a>
+                      <em>&gt;</em>
+                      <a href="#">费用报销</a>
+                  </div>
+              </div>
+              <!--当前位置over-->
+              <div class="right-inner mart5">
+                  <!--搜索begin-->
+                  <div class="r-top clearfix">
+                      <button type="button" class="btn btn-warning floatright marr10">新增</button>
+                      <div class="input-append floatright">
+                          <input class="span2" id="appendedInputButton" type="text">
+                          <button class="btn" type="button"><i class="icon-search"></i> 搜索</button>
+                      </div>
+                  </div>
+                  <!--搜索over-->
+                  <div class="mart30 clearfix mar-auto" style="width:540px;">
+                      <!--费用列begin-->
+                      <div class="pay-col floatleft">
+                          <select class="int1 width-160">
+                               <option>销售费用</option>
+                               <option>一级科目</option>
+                               <option>一级科目</option>
+                          </select>
+                          <div class="pay-colinner mart5">
+                             <ul class="font12">
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                             </ul>
+                          </div>
+                      </div>
+                      <!--费用列over-->
+                      <!--箭头beign-->
+                      <div class="floatleft marl15 marr15 mart50 p-top40">
+                          <p class="p-top40"><a class="btn disabled block"> &gt; &gt; </a></p>
+                          <p class="p-top40"><a class="btn disabled block"> &lt; &lt; </a></p>
+                      </div>
+                      <!--箭头over-->
+                      <!--科目列beign-->
+                      <div class="pay-col floatleft">
+                          <select class="int1 width-100">
+                               <option>一级科目</option>
+                               <option>一级科目</option>
+                          </select>
+                          <select class="int1 width-100">
+                               <option>行政费用</option>
+                               <option>一级科目</option>
+                          </select>
+                          <div class="pay-colinner mart5">
+                             <ul class="font12">
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">返利/回扣</a></li>
+                                 <li><a href="#">公关</a></li>
+                             </ul>
+                          </div>
+                      </div>
+                      <!--科目列over-->
+                      <!--按钮beign-->
+                      <div class="floatleft marl15 marr15 mart50 p-top40">
+                          <p class="p-top40"><a class="btn btn-success" href="#">保存</a></p>
+                          <p class="p-top40"><a class="btn" href="#">取消</a></p>
+                      </div>
+                      <!--按钮over-->
+                  </div>
+              </div>
+          </div>
+          <!--右侧over-->
+       </div>
+    </div>
+</div>
+</body>
+</html>

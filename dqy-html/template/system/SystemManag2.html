@@ -115,9 +115,9 @@
                       </form>
                   </div>
                   <!--搜索over-->
-                  <table width="100%" class="dqy-table mart10">
+                  <table width="100%" class="dqy-table mart10 table table-bordered table-hover tableBgColor">
                       <thead>
-                        <tr>
+                        <tr  class="thColor">
                             <th>三级科目名称<a href="#" class="arrow-down"></a></th>
                             <th>二级科目名称<a href="#" class="arrow-up"></a></th>
                             <th>一级科目名称<a href="#" class="arrow-down"></a> </th>
@@ -125,7 +125,7 @@
                         </tr>
                       </thead>
                       <tbody>
-                        <tr>
+                        <tr  class="oddBgColor">
                             <td>返佣金</td>
                             <td>返利点/扣点</td>
                             <td>销售费用</td>
@@ -209,18 +209,6 @@
                         </tr>
                        </tbody>
                   </table>
-                  <!--分页beign-->
-                  <p class="aligncenter pagenation">
-                      <a href="#" class="prve">&lt;</a>
-                      <a href="#">1</a>
-                      <a href="#">2</a>
-                      <a href="#">3</a>
-                      <span>...</span>
-                      <a href="#">4</a>
-                      <a href="#">5</a>
-                      <a href="#" class="next">&gt;</a>
-                  </p>
-                  <!--分页over-->
               </div>
           </div>
           <!--右侧over-->
@@ -282,15 +270,5 @@
         <!--新建科目弹出over-->
     </div>
 </div>
-<script type="text/javascript" src="../../js/jquery.min.js"></script>
-<script type="text/javascript">
-    var $btn = $(".cur");
-    var $dlHeight = $btn.next().height();
-    $(function(){
-
-        // 表格隔行换色
-        $(".dqy-table tr:even").addClass("tr-bg");
-    })
-</script>
 </body>
 </html>
