@@ -1,0 +1,65 @@
+.md-plus a,.md-ap-pro .md-num-ico,.md-title,.md-p-nav2 li a:hover,.md-doc-list tr:hover th,
+.md-doc-list tr:hover td,.md-results span.md-name,.phone-number{color:#0066cc;}
+.md-plus{border:1px solid #d4e5f6;}
+.md-plus-inner{border-top:1px solid #d4e5f6;}
+.md-plus-top{border-bottom:1px solid #d4e5f6;background:#edf4fb;color:#0066cc;}
+.md-p-nav ul li a,.md-approver-r,.md-plus-l-nav,.md-plus-l-nav,.md-plus-page a,.md-plus-page span,.make-logs td,.make-logs th{border-color:#d4e5f6;}
+.md-p-nav ul li a:hover{background:#0066cc;}
+.md-p-nav ul li.current a{background:#0066cc;}
+.md-plus-main-inner{border:1px solid #d4e5f6;}
+.md-doc-title span{color:#0066cc;}
+.md-doc-item,.make-logs th,.md-ap-pro ul li.current{border-color:#d4e5f6;background:#edf4fb;}
+.md-doc-item a.h2{color:#0066cc;}
+.md-ico{background-image:url("../images/theme1-img/md-plus-ico1.png");}
+.md-plus-pop-inner .md-mini-ico a:hover{border-bottom-color:#0066cc;}
+.md-plus-btn,.md-doc-item.current .md-plus-btn,.md-plus-btn em.md-plus-btn-r{background-image:url("../images/theme1-img/md-item-btn-bg.jpg");}
+table.md-set-table input:hover,.md-pop-main .md-doc-set-box input:hover,.int-div:hover{border:1px solid #0066CC;}
+.md-ap-pro .md-pro-user{color:#6a7b94;}
+.md-ap-pro .md-r-arrow{background:url("../images/theme1-img/md-plus-ico1.png") -59px -85px;}
+.md-add-ico,.md-minus-ico{background:url("../images/theme1-img/md-plus-ico1.png") -51px -105px;}
+.md-minus-ico{background-position:-68px -105px;}
+.md-add-ico{background-position:-51px -105px;}
+.md-p-nav2 li:hover,.md-p-nav2 li.current{border-bottom-color:#0066cc;}
+.md-doc-list tr:hover .md-mi-ico,.process-edit .md-mi-ico{background:url("../images/theme1-img/md-plus-ico1.png");}
+.md-doc-list tr:hover .md-mi-fq,.md-mi-fq:hover{background-position:-50px -142px;}
+.md-doc-list tr:hover .md-mi-edit,.md-mi-edit:hover{background-position:-50px -162px;}
+.md-doc-list tr:hover .md-mi-delete,.md-mi-delete:hover,.process-top .md-mi-delete{background-position:-50px -182px;}
+.md-doc-list tr:hover .md-mi-export,.md-mi-export:hover{background-position:-50px -202px;}
+.md-doc-list tr:hover .md-mi-fail,.md-mi-fail:hover{background-position:-50px -222px;}
+.md-doc-list tr:hover .md-mi-audit,.md-mi-audit:hover{background-position:-50px -242px;}
+.md-doc-list tr:hover .md-mi-ok,.md-mi-ok:hover{background-position:-50px -262px;}
+.md-doc-list tr:hover .md-mi-look,.md-mi-look:hover{background-position:-50px -282px;}
+.md-doc-list tr:hover .md-mi-print,.md-mi-print:hover{background-position:-50px -302px;}
+.md-mi-cross,.md-mi-return,.md-mi-nocross{width:24px;height:20px;}
+.md-mi-cross{background-position:-50px -342px;}
+.md-mi-return{background-position:-50px -362px;}
+.md-mi-nocross{background-position:-50px -382px;}
+.process-top .md-mi-add{background-position:-50px -322px;}
+.md-plus-page a:hover{background:#0066cc;color:#fff; text-decoration: none;}
+.md-plus-approver .md-doc-item-box .md-doc-item h2{border-color:#d4e5f6;color:#0f63d3;}
+.md-plus-page a.disabled{background:none;color:#D0D0D0; text-decoration: none;cursor: default;}
+.md-doc-item:hover .md-mi-ico2,.md-mi-ico2:hover,.md-mi-ico2.md-mi-add{background:url("../images/theme1-img/md-plus-ico1.png");}
+.md-doc-item:hover .md-mi-ico2.md-mi-edit,.md-mi-ico2.md-mi-edit:hover{background-position:-50px -121px;}
+.md-doc-item:hover .md-mi-ico2.md-mi-delete,.md-mi-ico2.md-mi-delete:hover{background-position:-63px -121px;}
+.md-doc-item:hover .md-mi-ico2.md-mi-ok,.md-mi-ico2.md-mi-ok:hover{background-position:-76px -121px;}
+.md-doc-item.current{background: url("../images/theme1-img/md-doc-item-bg.png");}
+.md-mi-ico2.md-mi-up:hover{background-position:-102px -121px;}
+.md-mi-ico2.md-mi-down:hover{background-position:-89px -120px;}
+.md-mi-ico2.md-mi-add{background-position:-89px -134px;}
+
+.md-plus-approver .md-doc-item-box .md-doc-item:hover{background:#edf4fb;}
+.md-plus-add,.md-arrow-bt,.md-arrow-bt:hover{background:url("../images/theme1-img/md-plus-ico1.png") -160px -72px;}
+.md-plus-l-nav,ul.test-process-list li a,.md-plus-tree li div.md-btn-team,.md-results.current{background:#edf4fb;}
+/*表单设置，按步骤*/
+.md-forms,.md-f-set-r,.md-forms-l table td,.md-forms-l table th,.md-p-in,ul.test-process-list  li a{border-color: #d4e5f6;}
+.md-plus-step,.md-step-in{background-image:url("../images/theme1-img/md-set-step1.png");}
+.md-step-in{background-position:0 -41px;}
+.md-a-choose .md-mi-ok{border-color:#0066cc;}
+.md-a-choosed .md-mi-ok{background-image: url("../images/theme1-img/md-plus-ico1.png");}
+.md-arrow-bt,.md-arrow-bt:hover{background-position:-75px -136px;}
+.process-edit-main{border:1px solid #d4e5f6;}
+
+
+
+
+
