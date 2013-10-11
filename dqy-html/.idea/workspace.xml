@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380289244695" ignored="false" />
     <file path="/SystemManag.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380298964969" ignored="false" />
-    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381483192026" ignored="false" />
+    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381484325173" ignored="false" />
     <file path="/SystemManag3.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295350676" ignored="false" />
     <file path="/SystemManag4.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380301130167" ignored="false" />
     <file path="/SystemManag2.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380383960301" ignored="false" />
@@ -94,7 +94,7 @@
       <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="20" selection-start="3366" selection-end="3366" vertical-scroll-proportion="0.0">
+            <state line="49" column="1" selection-start="2160" selection-end="2166" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1381481495877" expanded="true" signature="1114:1138" placeholder="{...}" />
               </folding>
@@ -105,7 +105,7 @@
       <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="214" column="18" selection-start="13785" selection-end="13785" vertical-scroll-proportion="0.8139764">
+            <state line="214" column="27" selection-start="13794" selection-end="13794" vertical-scroll-proportion="0.8139764">
               <folding />
             </state>
           </provider>
@@ -444,15 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="20" selection-start="3366" selection-end="3366" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1381481495877" expanded="true" signature="1114:1138" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="46" selection-start="319" selection-end="319" vertical-scroll-proportion="-4.21875">
@@ -469,9 +460,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="1" selection-start="2160" selection-end="2166" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1381481495877" expanded="true" signature="1114:1138" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="214" column="18" selection-start="13785" selection-end="13785" vertical-scroll-proportion="0.8139764">
+        <state line="214" column="27" selection-start="13794" selection-end="13794" vertical-scroll-proportion="0.8139764">
           <folding />
         </state>
       </provider>
