@@ -193,7 +193,6 @@ td .dqy-eidt{position: relative;top:1px;*top:0;}
 span.label{border-radius: 0;padding:5px 10px;}
 .well{padding:10px;margin-bottom: 10px;position: relative;background: none;box-shadow: none;border: 0;}
 .well-in{position: absolute;top:7px;right:10px;}
-.pro-in {}
 .pro-left{width:150px;min-height: 300px;border:1px solid #CBCBCB;background:#F5F5F5;}
 .pro-left ul li a{display:inline-block;}
 .pro-left ul li{margin:2px 0;}
@@ -213,4 +212,4 @@ span.label{border-radius: 0;padding:5px 10px;}
 .badge{padding:2px 5px;}
 .noborder td,.noborder th{border:0;}
 .btn{*margin-top: 1px;}
-
+input{height:25px;}
