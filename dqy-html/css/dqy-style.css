@@ -215,3 +215,53 @@ span.label{border-radius: 0;padding:5px 10px;}
 input{height:25px!important;}
 label input{height:auto!important;}
 .login-box table td span.int input{height:33px!important;line-height: 33px;top:3px;border-radius:5px;}
+.md-attachment {position: relative;z-index: 10;}
+.md-mi-attachment {
+display: inline-block;
+width: 16px;
+height: 18px;
+font-size: 0;
+line-height: 0;
+background: url("../images/cssimg/attachment.jpg");
+vertical-align: middle;
+top: -2px;
+left: -4px;
+position: relative;
+}
+.all-att {
+position: absolute;
+padding: 5px;
+background: #fff;
+width: 225px;
+z-index: 10;
+top: -10px;
+left: -30px;
+border: 1px solid #ccc;
+box-shadow: 0 0 8px #ccc;
+display:none;
+    text-align: left;
+}
+.all-att li{margin-top:2px;}
+.all-att li .docimg {
+display: inline-block;
+position: relative;
+top: -1px;
+float: left;margin-right: 3px;}
+.all-att li *{float:left;}
+.all-att li a{margin-left: 10px;}
+.md-attachment:hover .all-att{display: block;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
