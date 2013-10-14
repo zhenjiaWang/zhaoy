@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380289244695" ignored="false" />
     <file path="/SystemManag.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380298964969" ignored="false" />
-    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381570772035" ignored="false" />
+    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381718250726" ignored="false" />
     <file path="/SystemManag3.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295350676" ignored="false" />
     <file path="/SystemManag4.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380301130167" ignored="false" />
     <file path="/SystemManag2.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380383960301" ignored="false" />
@@ -71,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="-15.1875">
+            <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,19 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dqy-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="240" column="12" selection-start="14383" selection-end="14383" vertical-scroll-proportion="-24.44">
+            <state line="158" column="30" selection-start="10634" selection-end="10639" vertical-scroll-proportion="0.4293948">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="财务科目.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="财务科目.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/application/财务科目.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="69" selection-start="5479" selection-end="5479" vertical-scroll-proportion="0.3923679">
+            <state line="118" column="69" selection-start="5479" selection-end="5479" vertical-scroll-proportion="-0.84375">
               <folding>
                 <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -140,8 +140,8 @@
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/css/dqy-style.css" />
         <option value="$PROJECT_DIR$/template/application/财务科目.html" />
+        <option value="$PROJECT_DIR$/css/dqy-style.css" />
       </list>
     </option>
   </component>
@@ -177,7 +177,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,6 +229,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,8 +239,8 @@
     <property name="last_opened_file_path" value="D:/kuanpan/拍卖/J嘉禾拍卖" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -440,7 +440,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="-15.1875">
+        <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -452,20 +452,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="240" column="12" selection-start="14383" selection-end="14383" vertical-scroll-proportion="-24.44">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/application/财务科目.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="69" selection-start="5479" selection-end="5479" vertical-scroll-proportion="0.3923679">
+        <state line="118" column="69" selection-start="5479" selection-end="5479" vertical-scroll-proportion="-0.84375">
           <folding>
             <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="30" selection-start="10634" selection-end="10639" vertical-scroll-proportion="0.4293948">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -153,9 +153,10 @@ textarea{height:auto; vertical-align: text-top;}
 .reason{width:270px;height:140px;}
 .eidt{color:#ccc;}
 .eidt:hover{color:#c93d45;}
-.layout{}
+.layout{margin-bottom:10px;}
 .layout tr td{line-height:35px;vertical-align: middle;}
 .layout thead td{background: #f7f7f7;font-size: 14px;color:#898989;}
+.layout tr:even td,.layout tr.tr-bg td{background:#F7F7F7;}
 .layout strong{padding:0 6px;}
 .table-scroll{width:745px;height:320px;overflow-y:scroll;border:1px solid #ccc;border-width:0 1px 1px 1px;}
 .table-scroll table.layout{border-width:0;}
