@@ -6,11 +6,11 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380289244695" ignored="false" />
     <file path="/SystemManag.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380298964969" ignored="false" />
-    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381570772035" ignored="false" />
+    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381854358672" ignored="false" />
     <file path="/SystemManag3.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295350676" ignored="false" />
     <file path="/SystemManag4.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380301130167" ignored="false" />
     <file path="/SystemManag2.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380383960301" ignored="false" />
-    <file path="/财务科目.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381570988840" ignored="false" />
+    <file path="/财务科目.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381853580831" ignored="false" />
     <file path="/科目关联.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380386555867" ignored="false" />
     <file path="/费用预算.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380506534408" ignored="false" />
     <file path="/预算管理-new.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380509092193" ignored="false" />
@@ -71,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="-15.1875">
+            <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3095" column="6" selection-start="68760" selection-end="68760" vertical-scroll-proportion="0.0">
+            <state line="3095" column="0" selection-start="68754" selection-end="68754" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,23 +95,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dqy-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="240" column="12" selection-start="14383" selection-end="14383" vertical-scroll-proportion="-24.44">
+            <state line="99" column="38" selection-start="6678" selection-end="6678" vertical-scroll-proportion="0.4008097">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="财务科目.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="财务科目.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/application/财务科目.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="69" selection-start="5479" selection-end="5479" vertical-scroll-proportion="0.3923679">
-              <folding>
-                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="52" column="33" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-8.333333">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,16 +137,14 @@
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/css/dqy-style.css" />
         <option value="$PROJECT_DIR$/template/application/财务科目.html" />
+        <option value="$PROJECT_DIR$/css/dqy-style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1216" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,7 +172,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,6 +224,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,13 +283,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="6" />
+    <frame x="0" y="0" width="1616" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.101739585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10145847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -440,32 +435,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="-15.1875">
+        <state line="18" column="25" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3095" column="6" selection-start="68760" selection-end="68760" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="240" column="12" selection-start="14383" selection-end="14383" vertical-scroll-proportion="-24.44">
+        <state line="3095" column="0" selection-start="68754" selection-end="68754" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/application/财务科目.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="69" selection-start="5479" selection-end="5479" vertical-scroll-proportion="0.3923679">
-          <folding>
-            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="52" column="33" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-8.333333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="38" selection-start="6678" selection-end="6678" vertical-scroll-proportion="0.4008097">
+          <folding />
         </state>
       </provider>
     </entry>
