@@ -98,7 +98,7 @@
       <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="38" selection-start="6678" selection-end="6678" vertical-scroll-proportion="0.4008097">
+            <state line="259" column="32" selection-start="15137" selection-end="15137" vertical-scroll-proportion="0.46204934">
               <folding />
             </state>
           </provider>
@@ -107,7 +107,7 @@
       <file leaf-file-name="财务科目.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/application/财务科目.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="33" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-8.333333">
+            <state line="52" column="33" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -143,8 +143,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1616" />
-    <option name="height" value="916" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1216" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -234,8 +236,8 @@
     <property name="last_opened_file_path" value="D:/kuanpan/拍卖/J嘉禾拍卖" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -283,13 +285,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1616" height="916" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10145847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07169215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -449,14 +451,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/application/财务科目.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="33" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-8.333333">
+        <state line="52" column="33" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="38" selection-start="6678" selection-end="6678" vertical-scroll-proportion="0.4008097">
+        <state line="259" column="32" selection-start="15137" selection-end="15137" vertical-scroll-proportion="0.46204934">
           <folding />
         </state>
       </provider>
