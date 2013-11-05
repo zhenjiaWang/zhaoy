@@ -31,7 +31,7 @@
     <file path="D:/work/jiahe/WebContent/WEB-INF/template/regist-login/regist.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381565272487" ignored="false" />
     <file path="/regist.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381565271340" ignored="false" />
     <file path="D:/work/jiahe/WebContent/WEB-INF/template/regist.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1381565433601" ignored="false" />
-    <file path="/print-table.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383571112488" ignored="false" />
+    <file path="/print-table.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383616173067" ignored="false" />
     <file path="D:/work/jiahe/WebContent/template/auction-detail.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383550664064" ignored="false" />
     <file path="D:/work/jiahe/WebContent/css/style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383551940469" ignored="false" />
     <file path="/style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383557950371" ignored="false" />
@@ -81,7 +81,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="33" selection-start="1447" selection-end="1447" vertical-scroll-proportion="-5.0">
+            <state line="31" column="18" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,23 +105,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="dqy-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="269" column="0" selection-start="15587" selection-end="15587" vertical-scroll-proportion="0.5357625">
-              <folding />
+            <state line="268" column="26" selection-start="15586" selection-end="15586" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1383615903434" expanded="true" signature="12133:12216" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="print-table.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="print-table.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/print-table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="34" selection-start="2019" selection-end="2019" vertical-scroll-proportion="-9.133333">
-              <folding>
-                <element signature="tag#tbody#0;tag#table#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="81" column="35" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.65362036">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -159,14 +158,16 @@
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/template/application/财务科目.html" />
         <option value="$PROJECT_DIR$/template/index.html" />
-        <option value="$PROJECT_DIR$/template/print-table.html" />
         <option value="$PROJECT_DIR$/css/dqy-style.css" />
+        <option value="$PROJECT_DIR$/template/print-table.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1616" />
-    <option name="height" value="916" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1216" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -238,8 +239,8 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/admin" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -287,13 +288,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1616" height="916" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10970197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09119663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -448,24 +449,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="33" selection-start="1447" selection-end="1447" vertical-scroll-proportion="-5.0">
+        <state line="31" column="18" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/print-table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="34" selection-start="2019" selection-end="2019" vertical-scroll-proportion="-9.133333">
-          <folding>
-            <element signature="tag#tbody#0;tag#table#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="269" column="0" selection-start="15587" selection-end="15587" vertical-scroll-proportion="0.5357625">
+        <state line="268" column="26" selection-start="15586" selection-end="15586" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1383615903434" expanded="true" signature="12133:12216" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/print-table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="35" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.65362036">
           <folding />
         </state>
       </provider>
