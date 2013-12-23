@@ -4,9 +4,9 @@
     <list default="true" id="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" name="Default" comment="" />
     <ignored path="dqy-html.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383557840399" ignored="false" />
+    <file path="/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1387769059508" ignored="false" />
     <file path="/SystemManag.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380298964969" ignored="false" />
-    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385183066452" ignored="false" />
+    <file path="/dqy-style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1387769524469" ignored="false" />
     <file path="/SystemManag3.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380295350676" ignored="false" />
     <file path="/SystemManag4.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380301130167" ignored="false" />
     <file path="/SystemManag2.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1380383960301" ignored="false" />
@@ -39,9 +39,16 @@
     <file path="$USER_HOME$/Desktop/admin/index.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383557840399" ignored="false" />
     <file path="$USER_HOME$/Desktop/admin/css/style.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383557960050" ignored="false" />
     <file path="$USER_HOME$/Desktop/admin/css/global.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383555664444" ignored="false" />
-    <file path="/global.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383664659913" ignored="false" />
+    <file path="/global.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385369660778" ignored="false" />
     <file path="$USER_HOME$/Desktop/admin/css/bootstrap.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383557929284" ignored="false" />
     <file path="$PROJECT_DIR$/../../mdLA/md-plus/css/global.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1383664678233" ignored="false" />
+    <file path="D:/mdplus/HR/css/styles.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385370637722" ignored="false" />
+    <file path="/styles.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385370637722" ignored="false" />
+    <file path="D:/mdplus/HR/template/personnel-files.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385370858287" ignored="false" />
+    <file path="/personnel-files.html" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385370858287" ignored="false" />
+    <file path="D:/mdplus/HR/css/theme1.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385370091657" ignored="false" />
+    <file path="/theme1.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385369749723" ignored="false" />
+    <file path="D:/mdplus/HR/css/global.css" changelist="e3e4061a-ce1a-4ad1-868d-d3ac6d708474" time="1385369661213" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,40 +77,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="预算管理-new.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/template/application/预算管理-new.html">
+      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="465" column="36" selection-start="38808" selection-end="38808" vertical-scroll-proportion="0.4649123">
-              <folding>
-                <element signature="tag#div#0;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#table#0;tag#div#0;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#1;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#2;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#3;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#4;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#5;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#6;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#7;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#8;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#9;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#10;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#11;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#12;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#13;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#14;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#15;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#16;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="2007" column="26" selection-start="41589" selection-end="41598" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dqy-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="41" selection-start="1918" selection-end="1918" vertical-scroll-proportion="-9.28125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dqy-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="273" column="26" selection-start="15813" selection-end="15813" vertical-scroll-proportion="-17.0">
+            <state line="80" column="138" selection-start="5686" selection-end="5696" vertical-scroll-proportion="0.56942004">
               <folding />
             </state>
           </provider>
@@ -119,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/template/application/预算管理-new2.html" />
         <option value="$PROJECT_DIR$/template/application/预算管理-new3.html" />
         <option value="$PROJECT_DIR$/template/application/元算管理-new4.html" />
         <option value="$PROJECT_DIR$/template/application/预算管理-new4.html" />
@@ -131,9 +125,10 @@
         <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/template/application/财务科目.html" />
-        <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/template/print-table.html" />
         <option value="$PROJECT_DIR$/template/application/预算管理-new.html" />
+        <option value="$PROJECT_DIR$/template/application/预算管理-5.html" />
+        <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/css/dqy-style.css" />
       </list>
     </option>
@@ -141,8 +136,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -202,24 +197,6 @@
               <option name="myItemId" value="dqy-html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dqy-html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dqy-html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -229,7 +206,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="E:/kuaipan/标致/10月份/301" />
+    <property name="last_opened_file_path" value="D:/kuanpan/标致/12月/3008/3008 new" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
@@ -281,13 +258,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12682308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14892033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -363,11 +340,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/application/预算管理-new3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="218" column="84" selection-start="0" selection-end="12687" vertical-scroll-proportion="-3.2375" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/application/预算管理-new4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="200" column="0" selection-start="0" selection-end="10397" vertical-scroll-proportion="0.0" />
@@ -395,44 +367,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="121" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="121" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/application/流程设置.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="246" column="50" selection-start="13183" selection-end="13183" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="246" column="50" selection-start="13183" selection-end="13183" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/application/财务科目.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="50" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="50" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/print-table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="16" selection-start="2295" selection-end="2295" vertical-scroll-proportion="-6.6666665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="18" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.036549706">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5613" column="8" selection-start="132894" selection-end="132894" vertical-scroll-proportion="0.035663337">
-          <folding />
-        </state>
+        <state line="88" column="16" selection-start="2295" selection-end="2295" vertical-scroll-proportion="-6.6666665" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/global.css">
@@ -449,38 +399,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
+    <entry file="file://$PROJECT_DIR$/template/application/预算管理-new.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="273" column="26" selection-start="15813" selection-end="15813" vertical-scroll-proportion="-17.0">
+        <state line="4" column="11" selection-start="0" selection-end="39215" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/application/预算管理-new.html">
+    <entry file="file://$PROJECT_DIR$/template/application/预算管理-5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="465" column="36" selection-start="38808" selection-end="38808" vertical-scroll-proportion="0.4649123">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#table#0;tag#div#0;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#1;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#2;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#3;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#4;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#5;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#6;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#7;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#8;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#9;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#10;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#11;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#12;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#13;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#14;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#15;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#16;tag#tbody#0;tag#table#0;tag#div#1;tag#div#0;tag#td#0;tag#tr#2;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="5" column="49" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2007" column="26" selection-start="41589" selection-end="41598" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="41" selection-start="1918" selection-end="1918" vertical-scroll-proportion="-9.28125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dqy-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="138" selection-start="5686" selection-end="5696" vertical-scroll-proportion="0.56942004">
+          <folding />
         </state>
       </provider>
     </entry>

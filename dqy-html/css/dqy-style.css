@@ -76,8 +76,11 @@ a.triangle{display:inline-block;border-width:6px;border-color:#95c42d #f9f9f9  #
 .search-box ul li a:hover{padding-left:7px;}
 .search-box.current a.triangle{border-color:#f9f9f9 #f9f9f9 #95c42d #f9f9f9;top:2px;}
 .search-box.current ul{display: block;}
-.top-bar p.font14 a{color:#666666;line-height: 20px;}
+.top-bar p.font14 a,.top-bar p.font14 span{color:#666666;line-height: 20px;position:relative;}
 .top-bar p.font14 a:hover{text-decoration: underline;}
+.top-bar p.font14 span font{position:absolute;display:none;border:1px solid #8FC120;width:91px;background:url("../images/cssimg/cur-bg.png") repeat-x bottom center;top:-5px;left:-5px;padding:20px 0 5px 0;}
+.top-bar p.font14 span font a{display:block;line-height:12px;padding:7px 0 0 27px;}
+.top-bar p.font14 span:hover font{display:block}
 .choosed{display:block;width:160px;height:20px;overflow: hidden;}
 .left-count{width:546px;}
 .right-count{width:184px;}
